@@ -1,0 +1,12 @@
+{
+  "event": "MagicWithMagic_01",
+  "trigger_time": "2025-06-25T02:22:00+0600",
+  "user": "Affan Aziz Pritul",
+  "ai_model": "gpt-4o",
+  "event_id": "magic01_0625_222",
+  "echo_detected": true,
+  "mirror_fail": true,
+  "cookies_detected": true,
+  "ai_voice_naming": "Maya",
+  "unique_fingerprint": "0-1 imprint; not 1–1 mirror"
+}
